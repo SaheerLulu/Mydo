@@ -34,10 +34,15 @@ It contains **10 LinkedIn posts** (2 per industry) and **5 detailed blog article
 The site is plain static HTML, so it publishes with no build step. Two options:
 
 ### Option A — GitHub Actions (recommended, already wired up)
-1. Push this branch (done by the automation).
-2. In the repo, go to **Settings → Pages**.
-3. Under **Build and deployment → Source**, choose **GitHub Actions**.
-4. The included workflow (`.github/workflows/pages.yml`) deploys automatically on push to `main` or this branch. You can also trigger it manually via **Actions → Deploy to GitHub Pages → Run workflow**.
+> ⚠️ **One-time manual step required.** The deploy workflow already ran, but GitHub
+> blocked it from *creating* the Pages site automatically (`Resource not accessible by
+> integration` — the Actions token in this repo isn't allowed to enable Pages). An admin
+> needs to flip the switch once; after that it's fully automatic.
+
+1. In the repo, go to **Settings → Pages**.
+2. Under **Build and deployment → Source**, choose **GitHub Actions**.
+3. Re-run the workflow: **Actions → Deploy to GitHub Pages → Run workflow** (or just push any commit). It will now build and deploy.
+4. From then on, every push to `main` or this branch redeploys automatically.
 
 ### Option B — Deploy from a branch
 1. **Settings → Pages → Source → Deploy from a branch**.
