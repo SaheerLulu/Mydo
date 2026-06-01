@@ -145,8 +145,10 @@ figure.feature img { width: 100%; height: auto; display: block; border-radius: 6
 figure.diagram { margin: 30px 0; }
 figure.diagram img, img.diagram {
   width: 100%; height: auto; display: block;
-  border: 1px solid var(--line); border-radius: 8px; background: #0e1630;
+  border: 1px solid var(--line); border-radius: 8px; background: #fff;
 }
+.iconstrip { margin: 18px 0 6px; }
+.iconstrip img { width: 100%; height: auto; display: block; }
 figure figcaption {
   font-family: var(--sans); color: var(--muted); font-size: 13.5px;
   text-align: center; margin-top: 10px;

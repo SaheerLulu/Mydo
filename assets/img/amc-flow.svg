@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 272" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+<defs></defs>
+<rect x="0.5" y="0.5" width="1099" height="271" rx="18" fill="#ffffff" stroke="#e3e8f0"/>
+<marker id="ar" markerWidth="12" markerHeight="12" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L9,4 L0,8 Z" fill="#f59e0b"/></marker>
+<text x="40" y="46" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="22" fill="#1a1a1a" font-weight="800" text-anchor="start">From service ticket to proven SLA</text>
+<rect x="24" y="92" width="176" height="132" rx="14" fill="#f5f8ff" stroke="#dbe4f3" stroke-width="1"/>
+<circle cx="52" cy="122" r="15" fill="#f59e0b"/>
+<text x="52" y="127" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="800" text-anchor="middle">1</text>
+<text x="40" y="166" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#1a1a1a" font-weight="700" text-anchor="start">Logged</text>
+<text x="40" y="192" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280" font-weight="500" text-anchor="start">request or</text>
+<text x="40" y="210" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280" font-weight="500" text-anchor="start">sensor alert</text>
+<line x1="200" y1="150" x2="232" y2="150" stroke="#f59e0b" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="234" y="92" width="176" height="132" rx="14" fill="#f5f8ff" stroke="#dbe4f3" stroke-width="1"/>
+<circle cx="262" cy="122" r="15" fill="#f59e0b"/>
+<text x="262" y="127" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="800" text-anchor="middle">2</text>
+<text x="250" y="166" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#1a1a1a" font-weight="700" text-anchor="start">Match SLA</text>
+<text x="250" y="192" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280" font-weight="500" text-anchor="start">priority &amp;</text>
+<text x="250" y="210" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280" font-weight="500" text-anchor="start">deadline</text>
+<line x1="410" y1="150" x2="442" y2="150" stroke="#f59e0b" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="444" y="92" width="176" height="132" rx="14" fill="#f5f8ff" stroke="#dbe4f3" stroke-width="1"/>
+<circle cx="472" cy="122" r="15" fill="#f59e0b"/>
+<text x="472" y="127" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="800" text-anchor="middle">3</text>
+<text x="460" y="166" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#1a1a1a" font-weight="700" text-anchor="start">Dispatch</text>
+<text x="460" y="192" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280" font-weight="500" text-anchor="start">right tech +</text>
+<text x="460" y="210" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280" font-weight="500" text-anchor="start">right parts</text>
+<line x1="620" y1="150" x2="652" y2="150" stroke="#f59e0b" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="654" y="92" width="176" height="132" rx="14" fill="#f5f8ff" stroke="#dbe4f3" stroke-width="1"/>
+<circle cx="682" cy="122" r="15" fill="#f59e0b"/>
+<text x="682" y="127" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="800" text-anchor="middle">4</text>
+<text x="670" y="166" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#1a1a1a" font-weight="700" text-anchor="start">Resolve</text>
+<text x="670" y="192" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280" font-weight="500" text-anchor="start">fix, full</text>
+<text x="670" y="210" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280" font-weight="500" text-anchor="start">history kept</text>
+<line x1="830" y1="150" x2="862" y2="150" stroke="#f59e0b" stroke-width="2.5" marker-end="url(#ar)"/>
+<rect x="864" y="92" width="176" height="132" rx="14" fill="#f5f8ff" stroke="#dbe4f3" stroke-width="1"/>
+<circle cx="892" cy="122" r="15" fill="#f59e0b"/>
+<text x="892" y="127" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#ffffff" font-weight="800" text-anchor="middle">5</text>
+<text x="880" y="166" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#1a1a1a" font-weight="700" text-anchor="start">Prove</text>
+<text x="880" y="192" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280" font-weight="500" text-anchor="start">SLA report</text>
+<text x="880" y="210" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#6b7280" font-weight="500" text-anchor="start">&amp; renewal</text>
+</svg>
