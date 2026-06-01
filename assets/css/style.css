@@ -127,3 +127,16 @@ a:hover { text-decoration: underline; }
 .site-footer a { color: var(--muted); }
 
 hr.soft { border:none; border-top:1px solid var(--line); margin: 30px 0; }
+
+/* Figures / diagrams */
+figure.diagram { margin: 30px 0; }
+figure.diagram img, img.diagram {
+  width: 100%; height: auto; display: block;
+  border: 1px solid var(--line); border-radius: var(--radius);
+  background: #0e1630;
+}
+figure.diagram figcaption {
+  color: var(--muted); font-size: 14px; text-align: center; margin-top: 10px;
+}
+.hero-art { max-width: 760px; margin: 30px auto 0; }
+.hero-art img { width: 100%; height: auto; display: block; }

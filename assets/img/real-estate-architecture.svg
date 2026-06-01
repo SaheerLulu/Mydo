@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 560" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="g-brand" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4f7cff"/><stop offset="1" stop-color="#19d3c5"/></linearGradient>
+    <linearGradient id="g-engine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#16224a"/><stop offset="1" stop-color="#101935"/></linearGradient>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L9,4 L0,8 Z" fill="#4f7cff"/></marker>
+    <style>
+      .title{fill:#e8edf7;font-size:24px;font-weight:800}.col{fill:#19d3c5;font-size:13px;font-weight:700;letter-spacing:1px;text-transform:uppercase}
+      .node{fill:#16203f;stroke:#25325a}.nlabel{fill:#d4dcf2;font-size:14.5px;font-weight:600}
+      .chip{fill:#101c3e;stroke:#2d3f73}.clabel{fill:#fff;font-size:14.5px;font-weight:700}
+      .out{fill:#0f1d33;stroke:#1d6f63}.olabel{fill:#cdeee9;font-size:14.5px;font-weight:600}
+      .users{fill:#9aa6c4;font-size:14px;font-weight:600}
+    </style>
+  </defs>
+  <rect x="0.5" y="0.5" width="1039" height="559" rx="18" fill="#0b1020" stroke="#25325a"/>
+  <text x="40" y="48" class="title">Real Estate — How Mydo Fits</text>
+
+  <text x="40" y="92" class="col">Data In</text>
+  <text x="400" y="92" class="col">Mydo AI Engine</text>
+  <text x="760" y="92" class="col">Outcomes</text>
+
+  <rect x="40" y="108" width="260" height="56" rx="10" class="node"/><text x="62" y="142" class="nlabel">Leads (Portals / Web / Chat)</text>
+  <rect x="40" y="180" width="260" height="56" rx="10" class="node"/><text x="62" y="214" class="nlabel">Leases &amp; Title Docs</text>
+  <rect x="40" y="252" width="260" height="56" rx="10" class="node"/><text x="62" y="286" class="nlabel">Maintenance Tickets</text>
+  <rect x="40" y="324" width="260" height="56" rx="10" class="node"/><text x="62" y="358" class="nlabel">Rent &amp; Payments</text>
+
+  <line x1="308" y1="240" x2="386" y2="240" stroke="#4f7cff" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <rect x="392" y="100" width="276" height="296" rx="16" fill="url(#g-engine)" stroke="url(#g-brand)" stroke-width="2"/>
+  <rect x="410" y="120" width="240" height="56" rx="10" class="chip"/><circle cx="432" cy="148" r="6" fill="#4f7cff"/><text x="448" y="153" class="clabel">Lead-to-Lease Bot</text>
+  <rect x="410" y="186" width="240" height="56" rx="10" class="chip"/><circle cx="432" cy="214" r="6" fill="#19d3c5"/><text x="448" y="219" class="clabel">Contract Intelligence</text>
+  <rect x="410" y="252" width="240" height="56" rx="10" class="chip"/><circle cx="432" cy="280" r="6" fill="#ffb020"/><text x="448" y="285" class="clabel">Predictive Maintenance</text>
+  <rect x="410" y="318" width="240" height="56" rx="10" class="chip"/><circle cx="432" cy="346" r="6" fill="#a78bfa"/><text x="448" y="351" class="clabel">Portfolio Analytics</text>
+
+  <line x1="676" y1="240" x2="754" y2="240" stroke="#4f7cff" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <rect x="760" y="108" width="240" height="56" rx="10" class="out"/><text x="782" y="142" class="olabel">&lt;60s Lead Response</text>
+  <rect x="760" y="180" width="240" height="56" rx="10" class="out"/><text x="782" y="214" class="olabel">No Missed Renewals</text>
+  <rect x="760" y="252" width="240" height="56" rx="10" class="out"/><text x="782" y="286" class="olabel">Higher Asset Value</text>
+  <rect x="760" y="324" width="240" height="56" rx="10" class="out"/><text x="782" y="358" class="olabel">Live Portfolio View</text>
+
+  <rect x="40" y="436" width="960" height="84" rx="14" fill="#0c1430" stroke="#25325a"/>
+  <text x="64" y="470" class="col">Who uses it</text>
+  <text x="64" y="500" class="users">Agents  ·  Property Managers  ·  Developers  ·  Owners / Investors</text>
+</svg>
