@@ -31,22 +31,24 @@ It contains **10 LinkedIn posts** (2 per industry) and **5 detailed blog article
 
 ## Publishing to GitHub Pages
 
-The site is plain static HTML, so it publishes with no build step. Two options:
+> ⚠️ **GitHub Pages must be turned on once, by hand, in repo Settings.**
+> Automated deploys cannot do this: GitHub blocks the Actions token from
+> creating the Pages site (`Resource not accessible by integration`). This is a
+> one-time switch only a repo admin can flip — after that the site stays live.
 
-### Option A — GitHub Actions (recommended, already wired up)
-> ⚠️ **One-time manual step required.** The deploy workflow already ran, but GitHub
-> blocked it from *creating* the Pages site automatically (`Resource not accessible by
-> integration` — the Actions token in this repo isn't allowed to enable Pages). An admin
-> needs to flip the switch once; after that it's fully automatic.
+The site is plain static HTML, so no build step is needed.
 
-1. In the repo, go to **Settings → Pages**.
-2. Under **Build and deployment → Source**, choose **GitHub Actions**.
-3. Re-run the workflow: **Actions → Deploy to GitHub Pages → Run workflow** (or just push any commit). It will now build and deploy.
-4. From then on, every push to `main` or this branch redeploys automatically.
+### ✅ Option A — Deploy from a branch (simplest — do this)
+1. Open **Settings → Pages**.
+2. Under **Build and deployment → Source**, pick **Deploy from a branch**.
+3. **Branch:** select `claude/linkedin-posts-github-blogs-12AuF` (or `main` after merging) · **Folder:** `/ (root)`.
+4. Click **Save**. Wait ~1 minute and refresh — the live URL appears at the top of the same page.
 
-### Option B — Deploy from a branch
-1. **Settings → Pages → Source → Deploy from a branch**.
-2. Select the branch and the `/ (root)` folder, then **Save**.
+This bypasses the workflow entirely and just serves the files. Nothing else to do.
+
+### Option B — GitHub Actions source
+1. **Settings → Pages → Source → GitHub Actions**.
+2. Run the workflow manually: **Actions → Deploy to GitHub Pages → Run workflow**.
 
 Once live, the site is available at:
 

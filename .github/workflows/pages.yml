@@ -4,10 +4,9 @@ name: Deploy to GitHub Pages
 # Requires: repo Settings → Pages → "Build and deployment" → Source = "GitHub Actions".
 
 on:
-  push:
-    branches:
-      - main
-      - claude/linkedin-posts-github-blogs-12AuF
+  # Manual only. GitHub Pages must first be enabled once in
+  # Settings → Pages (see README). Until then, auto-runs on every
+  # push just fail noisily, so we don't trigger on push.
   workflow_dispatch:
 
 permissions:
