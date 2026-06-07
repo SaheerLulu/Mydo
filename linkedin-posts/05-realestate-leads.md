@@ -8,7 +8,7 @@ A lead comes in at 9pm. The agent sees it at 11am the next day. By then, the pro
 
 In real estate, speed isn't a nice-to-have. It's the deal.
 
-Mydo by Biloop responds to every enquiry — from portals, your website, WhatsApp, walk-ins — in under 60 seconds, day or night. It answers the common questions, qualifies budget and intent, and books a viewing straight into the agent's live calendar.
+Biloop responds to every enquiry — from portals, your website, WhatsApp, walk-ins — in under 60 seconds, day or night. It answers the common questions, qualifies budget and intent, and books a viewing straight into the agent's live calendar.
 
 Your agents stop chasing cold leads and start their day with booked viewings.
 
@@ -18,4 +18,4 @@ The market rewards whoever replies first. AI makes "first" your default setting.
 
 👉 From listings to lifetime value — how AI transforms real estate: https://saheerlulu.github.io/mydo/blogs/real-estate.html
 
-#RealEstate #PropTech #RealEstateMarketing #LeadGeneration #AI #Mydo #Biloop
+#RealEstate #PropTech #RealEstateMarketing #LeadGeneration #AI #BiloopAI #Biloop

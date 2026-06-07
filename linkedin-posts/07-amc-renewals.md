@@ -8,7 +8,7 @@ Annual Maintenance Contracts are a beautiful recurring-revenue machine — until
 
 The problem isn't your team. It's that tracking hundreds of expiry dates, SLAs and pricing terms by hand simply doesn't scale.
 
-Mydo by Biloop reads every contract, extracts the terms that matter — covered assets, SLAs, included visits, renewal dates — and then:
+Biloop reads every contract, extracts the terms that matter — covered assets, SLAs, included visits, renewal dates — and then:
 
 ✅ Surfaces every renewal months ahead
 ✅ Auto-drafts it with updated pricing
@@ -20,4 +20,4 @@ In a recurring-revenue business, retention *is* the strategy. AI just makes sure
 
 👉 From break-fix to predictive — how AI transforms AMC: https://saheerlulu.github.io/mydo/blogs/amc.html
 
-#AMC #FieldService #MaintenanceManagement #RecurringRevenue #AI #Mydo #Biloop
+#AMC #FieldService #MaintenanceManagement #RecurringRevenue #AI #BiloopAI #Biloop

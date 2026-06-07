@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the light-themed SVG visual system for the Mydo site."""
+"""Generate the light-themed SVG visual system for the Biloop/Medloop site."""
 import os
 
 OUT = os.path.join(os.path.dirname(__file__), "..", "assets", "img")
@@ -40,11 +40,11 @@ def save(name, vb_w, vb_h, body, defs=""):
 DOTS=[BLUE,TEAL,AMBER,PURPLE]
 
 # ---------------- 3-stage industry architecture ----------------
-def arch(name, title, datain, ai, outcomes, users):
+def arch(name, title, datain, ai, outcomes, users, product="Biloop"):
     b=[arrow_defs()]
     b.append(t(40,48,title,24,INK,800))
     b.append(t(40,92,"Data In",13,BLUE,700))
-    b.append(t(400,92,"Mydo AI Engine",13,BLUE,700))
+    b.append(t(400,92,f"{product} AI Engine",13,BLUE,700))
     b.append(t(760,92,"Outcomes",13,BLUE,700))
     ys=[108,180,252,324]
     for i,lab in enumerate(datain):
@@ -102,7 +102,7 @@ def impact(name, title, stats, accent=BLUE):
     save(f"{name}-impact.svg",1040,300,"\n".join(b))
 
 # ---------------- banner (light, homepage thumbnails) ----------------
-def banner(name, emoji, title, tag, accent=BLUE):
+def banner(name, emoji, title, tag, accent=BLUE, product="Biloop"):
     defs=(f'<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">'
           f'<stop offset="0" stop-color="{accent}" stop-opacity="0.10"/>'
           f'<stop offset="1" stop-color="{accent}" stop-opacity="0.02"/></linearGradient>')
@@ -114,7 +114,8 @@ def banner(name, emoji, title, tag, accent=BLUE):
     b.append(f'<text x="980" y="150" text-anchor="middle" font-size="84">{emoji}</text>')
     b.append(t(64,112,title,46,INK,800))
     b.append(t(64,150,tag,20,accent,700))
-    b.append(t(64,194,"Mydo by Biloop · AI-powered transformation",17,MUTED,600))
+    sub = "Biloop · AI-powered transformation" if product=="Biloop" else f"{product} by Biloop · AI-powered transformation"
+    b.append(t(64,194,sub,17,MUTED,600))
     save(f"{name}-banner.svg",1200,240,"\n".join(b),defs)
 
 # ---------------- hero (light hub & spoke) ----------------
@@ -131,7 +132,7 @@ def hero():
         b.append(f'<text x="{x}" y="{y+8}" text-anchor="middle" font-size="{24 if r==34 else 19}">{e}</text>')
     b.append(f'<circle cx="500" cy="215" r="88" fill="{WHITE}" stroke="{BLUE}" stroke-width="3"/>')
     b.append(f'<circle cx="500" cy="215" r="62" fill="none" stroke="{BOXS}" stroke-width="1.5" stroke-dasharray="4 6"/>')
-    b.append(t(500,208,"Mydo",30,INK,800,"middle"))
+    b.append(t(500,208,"Biloop",28,INK,800,"middle"))
     b.append(t(500,234,"AI Engine",14,MUTED,600,"middle"))
     save("hero.svg",1000,430,"\n".join(b))
 
@@ -175,9 +176,9 @@ def capabilities():
 # ---------------- big platform architecture (light) ----------------
 def platform():
     b=[arrow_defs()]
-    b.append(t(40,50,"Mydo by Biloop — Platform Architecture",28,INK,800))
+    b.append(t(40,50,"Biloop — Platform Architecture",28,INK,800))
     b.append(t(40,78,"Connect every source, automate the work, predict what matters, and put decisions in front of people.",15,MUTED))
-    cols=[(40,"Data Sources"),(300,"Unify · Data Layer"),(560,"Mydo AI Engine"),(900,"Decide & Act")]
+    cols=[(40,"Data Sources"),(300,"Unify · Data Layer"),(560,"Biloop AI Engine"),(900,"Decide & Act")]
     for x,lab in cols: b.append(t(x,128,lab,14,BLUE,700))
     src=["ERP / Accounting","POS / Billing","Spreadsheets / Email","IoT / Sensors","Legacy Systems / Docs"]
     sy=[150,214,278,342,406]
@@ -214,7 +215,7 @@ def platform():
 
 DATA={
  "pharmacy":{
-   "title":"Pharmacy Retail — How Mydo Fits",
+   "title":"Pharmacy Retail — How Medloop Fits",
    "datain":["POS Sales","Purchases / Suppliers","Batch & Expiry Data","Prescriptions"],
    "ai":["Demand Forecasting","Expiry & FEFO Tracking","Compliance Automation","Margin Intelligence"],
    "out":["Fewer Stockouts","15–30% Less Expiry Loss","Audit-ready Reports","Inter-branch Transfers"],
@@ -227,7 +228,7 @@ DATA={
    "impact":[("15–30%","less expiry|write-off"),("~98%","fast-mover|availability"),("Hrs → min","regulatory|reporting")],
  },
  "accounting":{
-   "title":"Accounting — How Mydo Fits",
+   "title":"Accounting — How Biloop Fits",
    "datain":["Invoices & Receipts","Bank Feeds","Purchase Orders","Contracts & Statements"],
    "ai":["Document AI Extraction","Continuous Reconciliation","Always-on Controls","Cash-flow Forecasting"],
    "out":["Close in 1–2 Days","~80% Less Keying","Fraud / Error Alerts","Real-time Reporting"],
@@ -240,7 +241,7 @@ DATA={
    "impact":[("5–8d → 1–2d","month-end|close time"),("~80%","invoice data|auto-captured"),("100%","of transactions|controlled")],
  },
  "real-estate":{
-   "title":"Real Estate — How Mydo Fits",
+   "title":"Real Estate — How Biloop Fits",
    "datain":["Leads (Portals/Web/Chat)","Leases & Title Docs","Maintenance Tickets","Rent & Payments"],
    "ai":["Lead-to-Lease Bot","Contract Intelligence","Predictive Maintenance","Portfolio Analytics"],
    "out":["<60s Lead Response","No Missed Renewals","Higher Asset Value","Live Portfolio View"],
@@ -253,7 +254,7 @@ DATA={
    "impact":[("<60s","lead|response"),("20–40%","more qualified|viewings"),("Zero","missed lease|renewals")],
  },
  "amc":{
-   "title":"AMC & Field Service — How Mydo Fits",
+   "title":"AMC & Field Service — How Biloop Fits",
    "datain":["AMC Contracts","Asset Register","IoT Telemetry","Service Requests"],
    "ai":["Contract & SLA Intel","Smart Dispatch & Routing","Predictive Servicing","Parts Forecasting"],
    "out":["Zero Missed Renewals","+20–35% Jobs / Tech","Fewer Emergency Calls","Provable SLA Compliance"],
@@ -266,7 +267,7 @@ DATA={
    "impact":[("Zero","missed|renewals"),("+20–35%","jobs per|technician"),("100%","SLA|visibility")],
  },
  "oil-and-gas":{
-   "title":"Oil & Gas — How Mydo Fits",
+   "title":"Oil & Gas — How Biloop Fits",
    "datain":["SCADA / Historian","Maintenance Records","HSE & Permits","P&IDs / Manuals"],
    "ai":["Predictive Maintenance","Digital HSE & Permits","Knowledge Search","Operations Intelligence"],
    "out":["Less Unplanned Downtime","Audit-ready Compliance","Retained Knowledge","Cost-per-Barrel View"],
@@ -288,13 +289,18 @@ BANNERS={
  "oil-and-gas":("\U0001F6E2️","Oil & Gas","Predictive ops · airtight HSE","#0891b2"),
 }
 
+def product_for(k):
+    # Pharmacy / healthcare is branded "Medloop"; everything else is "Biloop".
+    return "Medloop" if k=="pharmacy" else "Biloop"
+
 def main():
     for k,d in DATA.items():
-        arch(k,d["title"],d["datain"],d["ai"],d["out"],d["users"])
+        p=product_for(k)
+        arch(k,d["title"],d["datain"],d["ai"],d["out"],d["users"],p)
         flow(k,d["flow_title"],d["flow"],d["accent"])
         impact(k,d["impact_title"],d["impact"],d["accent"])
     for k,(e,ti,tg,c) in BANNERS.items():
-        banner(k,e,ti,tg,c)
+        banner(k,e,ti,tg,c,product_for(k))
     hero(); capabilities(); platform()
     print("generated all SVGs in", os.path.normpath(OUT))
 

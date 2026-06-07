@@ -10,7 +10,7 @@ The problem was never carelessness. It's that no human can track expiry dates ac
 
 That's exactly the kind of work AI was made for.
 
-With Mydo by Biloop, every unit is tracked by batch and expiry date. Stock that's at risk gets flagged weeks ahead — and Mydo even suggests transferring it to the branch where demand is highest, so it sells at full margin instead of hitting the bin.
+With Medloop, every unit is tracked by batch and expiry date. Stock that's at risk gets flagged weeks ahead — and Medloop even suggests transferring it to the branch where demand is highest, so it sells at full margin instead of hitting the bin.
 
 Pharmacies using this approach typically cut expiry write-offs by 15–30%.
 
@@ -18,4 +18,4 @@ Your margin is sitting on the shelf. AI just helps you see it in time.
 
 👉 How AI transforms pharmacy retail — full breakdown: https://saheerlulu.github.io/mydo/blogs/pharmacy-retail.html
 
-#PharmacyRetail #RetailPharmacy #AI #InventoryManagement #Biloop #Mydo #DigitalTransformation
+#PharmacyRetail #RetailPharmacy #AI #InventoryManagement #Biloop #Medloop #DigitalTransformation

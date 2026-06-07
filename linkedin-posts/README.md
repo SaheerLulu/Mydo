@@ -1,4 +1,4 @@
-# Mydo by Biloop — LinkedIn Campaign (10 Posts)
+# Biloop — LinkedIn Campaign (10 Posts)
 
 Ten ready-to-publish LinkedIn posts on **how AI transforms five industries** — two posts per industry. Each post is in its own file so you can schedule them individually. Replace `[link to blog]` with the published GitHub Pages URL of the matching deep-dive before posting.
 

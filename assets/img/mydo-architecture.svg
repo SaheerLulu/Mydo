@@ -2,11 +2,11 @@
 <defs></defs>
 <rect x="0.5" y="0.5" width="1119" height="659" rx="18" fill="#ffffff" stroke="#e3e8f0"/>
 <marker id="ar" markerWidth="12" markerHeight="12" refX="8" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L9,4 L0,8 Z" fill="#2563eb"/></marker>
-<text x="40" y="50" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="28" fill="#1a1a1a" font-weight="800" text-anchor="start">Mydo by Biloop — Platform Architecture</text>
+<text x="40" y="50" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="28" fill="#1a1a1a" font-weight="800" text-anchor="start">Biloop — Platform Architecture</text>
 <text x="40" y="78" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" fill="#6b7280" font-weight="400" text-anchor="start">Connect every source, automate the work, predict what matters, and put decisions in front of people.</text>
 <text x="40" y="128" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#2563eb" font-weight="700" text-anchor="start">Data Sources</text>
 <text x="300" y="128" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#2563eb" font-weight="700" text-anchor="start">Unify · Data Layer</text>
-<text x="560" y="128" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#2563eb" font-weight="700" text-anchor="start">Mydo AI Engine</text>
+<text x="560" y="128" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#2563eb" font-weight="700" text-anchor="start">Biloop AI Engine</text>
 <text x="900" y="128" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#2563eb" font-weight="700" text-anchor="start">Decide &amp; Act</text>
 <rect x="40" y="150" width="200" height="50" rx="10" fill="#f5f8ff" stroke="#dbe4f3" stroke-width="1"/>
 <text x="60" y="180" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#374151" font-weight="600" text-anchor="start">ERP / Accounting</text>

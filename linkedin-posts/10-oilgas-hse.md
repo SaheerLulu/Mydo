@@ -10,7 +10,7 @@ Yet permits to work, inspections, incident reports and compliance certificates a
 
 And there's a quieter risk compounding it: experienced engineers are retiring, taking decades of hard-won knowledge with them, while critical assets keep aging.
 
-Mydo by Biloop addresses both:
+Biloop addresses both:
 
 🦺 Digitises permits to work, inspections and incidents — enforcing approvals, flagging conflicts, tracking corrective actions to closure, with a complete audit-ready trail
 🧠 Makes decades of P&IDs, manuals and reports instantly searchable — an engineer asks a question in plain language and gets the answer with the source document attached
@@ -21,4 +21,4 @@ In a safety-critical industry, that's not just efficiency. It's resilience.
 
 👉 The full oil & gas breakdown: https://saheerlulu.github.io/mydo/blogs/oil-and-gas.html
 
-#OilAndGas #HSE #ProcessSafety #Energy #DigitalTransformation #IndustrialAI #Mydo #Biloop
+#OilAndGas #HSE #ProcessSafety #Energy #DigitalTransformation #IndustrialAI #BiloopAI #Biloop

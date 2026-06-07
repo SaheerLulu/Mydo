@@ -10,7 +10,7 @@ If the honest answer is "I'd have to pull a few spreadsheets and get back to you
 
 Most property businesses run a fast sales front office and a slow, reactive back office — facilities fixed only when they break, leases buried in PDFs, renewal dates discovered too late.
 
-Mydo by Biloop closes that gap:
+Biloop closes that gap:
 
 🔧 Maintenance moves from reactive to predictive — protecting asset value and tenant satisfaction
 📄 Leases become structured and deadline-aware — no more missed renewals or rent reviews
@@ -22,4 +22,4 @@ That's the difference between owning property and running a portfolio.
 
 👉 The full real estate breakdown: https://saheerlulu.github.io/mydo/blogs/real-estate.html
 
-#RealEstate #AssetManagement #PropertyManagement #PropTech #PredictiveMaintenance #Mydo #Biloop
+#RealEstate #AssetManagement #PropertyManagement #PropTech #PredictiveMaintenance #BiloopAI #Biloop

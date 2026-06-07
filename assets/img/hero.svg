@@ -25,6 +25,6 @@
 <text x="690" y="386" text-anchor="middle" font-size="19">🤖</text>
 <circle cx="500" cy="215" r="88" fill="#ffffff" stroke="#2563eb" stroke-width="3"/>
 <circle cx="500" cy="215" r="62" fill="none" stroke="#dbe4f3" stroke-width="1.5" stroke-dasharray="4 6"/>
-<text x="500" y="208" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="30" fill="#1a1a1a" font-weight="800" text-anchor="middle">Mydo</text>
+<text x="500" y="208" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="28" fill="#1a1a1a" font-weight="800" text-anchor="middle">Biloop</text>
 <text x="500" y="234" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="14" fill="#6b7280" font-weight="600" text-anchor="middle">AI Engine</text>
 </svg>

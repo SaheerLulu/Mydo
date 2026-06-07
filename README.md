@@ -1,6 +1,6 @@
-# Mydo by Biloop — Industry Transformation Campaign
+# Biloop — Industry Transformation Campaign
 
-A complete, ready-to-publish content package on **how AI (Mydo by Biloop) transforms five industries**:
+A complete, ready-to-publish content package on **how AI (Biloop) transforms five industries**:
 
 - 💊 **Pharmacy Retail**
 - 📊 **Accounting**
@@ -64,4 +64,4 @@ Open [`linkedin-posts/README.md`](linkedin-posts/README.md) for the full posting
 
 ---
 
-© 2026 Biloop. Mydo is a product of Biloop. · [biloop.ai](https://biloop.ai) · info@biloop.ai
+© 2026 Biloop. AI that transforms how industries work. · [biloop.ai](https://biloop.ai) · info@biloop.ai

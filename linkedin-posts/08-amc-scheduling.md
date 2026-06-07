@@ -8,7 +8,7 @@ Now it's a second visit, an unhappy customer, a breached SLA, and a day's produc
 
 Dispatching the right technician, with the right parts, to the right job, against the right SLA, is a genuinely hard optimisation problem. A whiteboard and a phone can't solve it.
 
-Mydo by Biloop can:
+Biloop can:
 
 📍 Assigns jobs by skill, location, parts and SLA urgency — minimising drive time while protecting response commitments
 🔧 Auto-schedules every preventive visit a contract includes, so nothing's forgotten
@@ -20,4 +20,4 @@ Break-fix is expensive. Predictive is profitable. AI is the bridge.
 
 👉 The full AMC breakdown: https://saheerlulu.github.io/mydo/blogs/amc.html
 
-#AMC #FieldServiceManagement #PredictiveMaintenance #Operations #AI #Mydo #Biloop
+#AMC #FieldServiceManagement #PredictiveMaintenance #Operations #AI #BiloopAI #Biloop

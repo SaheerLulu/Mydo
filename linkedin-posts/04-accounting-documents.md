@@ -6,7 +6,7 @@ You didn't hire skilled accountants to retype invoices.
 
 But that's where the hours go: reading PDFs, keying line items, matching receipts, fixing typos. The people you hired to *interpret* the business spend their days *assembling* the data.
 
-Mydo by Biloop reads invoices, receipts and statements the moment they arrive — extracting every field, validating against your POs, coding the entry, and only asking a human when something's genuinely uncertain.
+Biloop reads invoices, receipts and statements the moment they arrive — extracting every field, validating against your POs, coding the entry, and only asking a human when something's genuinely uncertain.
 
 Around 80% of invoice data gets captured with zero keying.
 
@@ -18,4 +18,4 @@ Which one are you building?
 
 👉 How AI transforms accounting — read more: https://saheerlulu.github.io/mydo/blogs/accounting.html
 
-#Accounting #AccountingFirms #Bookkeeping #AI #DocumentAI #AdvisoryServices #Mydo #Biloop
+#Accounting #AccountingFirms #Bookkeeping #AI #DocumentAI #AdvisoryServices #BiloopAI #Biloop

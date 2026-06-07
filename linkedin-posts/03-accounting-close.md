@@ -10,7 +10,7 @@ By the time the numbers land, the month they describe is already history. If the
 
 It doesn't have to work this way.
 
-Mydo by Biloop runs reconciliation continuously in the background — matching bank lines, payables and receivables every day, not in one painful batch. Clean matches post automatically. Only true exceptions reach a human.
+Biloop runs reconciliation continuously in the background — matching bank lines, payables and receivables every day, not in one painful batch. Clean matches post automatically. Only true exceptions reach a human.
 
 The books are effectively always close-ready. Teams move from a 5–8 day close to 1–2 days — or to a genuinely continuous close.
 
@@ -20,4 +20,4 @@ What would your team do with an extra week, every single month?
 
 👉 The full breakdown of AI in accounting: https://saheerlulu.github.io/mydo/blogs/accounting.html
 
-#Accounting #Finance #CFO #FinanceAutomation #ContinuousClose #Mydo #Biloop
+#Accounting #Finance #CFO #FinanceAutomation #ContinuousClose #BiloopAI #Biloop
