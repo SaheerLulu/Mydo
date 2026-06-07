@@ -1,21 +1,17 @@
-# LinkedIn Post 1 — Pharmacy Retail (the expiry problem)
+# LinkedIn Post 1 - Pharmacy Retail (the expiry problem)
 
 ---
 
-💊 Every pharmacy owner knows this quiet pain: a tray of medicine, weeks from expiry, that nobody noticed in time.
+I sat with a pharmacy owner a few weeks ago who opened a drawer behind the counter and showed me a stack of boxes, most of them six to eight weeks from expiry. He had a rough sense of what was in there. What he didn't have was the year's total, which worked out to about the price of a decent used car.
 
-It doesn't show up as a dramatic loss. It shows up as a slow leak — a few hundred here, a few thousand there — until you add up a year of write-offs and realise it bought a car.
+That's the quiet thing about expiry losses. They never land as one painful number. It's a few hundred here, a tray written off there, and you only really feel it when the accountant asks why shrinkage crept up again.
 
-The problem was never carelessness. It's that no human can track expiry dates across thousands of batches, in multiple branches, while also serving patients.
+It was never carelessness on his part. Nobody can hold thousands of batch dates across three or four branches in their head while also serving a queue.
 
-That's exactly the kind of work AI was made for.
+This is the boring, unglamorous work that software is genuinely good at. Medloop tracks every pack by batch and expiry, flags what's about to turn weeks ahead of time, and (the part owners tend to like) points out which branch is short of that exact item so you can move it before it dies on a shelf.
 
-With Medloop, every unit is tracked by batch and expiry date. Stock that's at risk gets flagged weeks ahead — and Medloop even suggests transferring it to the branch where demand is highest, so it sells at full margin instead of hitting the bin.
+The pharmacies doing this tend to knock their write-offs down by roughly a fifth to a third. It isn't magic. It's just finally seeing the leak while there's still time to do something about it.
 
-Pharmacies using this approach typically cut expiry write-offs by 15–30%.
+I wrote up how it actually works, with the screens, here: https://saheerlulu.github.io/mydo/blogs/pharmacy-retail.html
 
-Your margin is sitting on the shelf. AI just helps you see it in time.
-
-👉 How AI transforms pharmacy retail — full breakdown: https://saheerlulu.github.io/mydo/blogs/pharmacy-retail.html
-
-#PharmacyRetail #RetailPharmacy #AI #InventoryManagement #Biloop #Medloop #DigitalTransformation
+#PharmacyRetail #Medloop #Inventory

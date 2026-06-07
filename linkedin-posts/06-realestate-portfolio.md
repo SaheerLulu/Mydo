@@ -1,25 +1,19 @@
-# LinkedIn Post 6 — Real Estate (portfolio & maintenance intelligence)
+# LinkedIn Post 6 - Real Estate (portfolio & maintenance intelligence)
 
 ---
 
-Quick question for anyone managing a property portfolio:
+Quick one for anyone running a property portfolio.
 
-Which of your buildings is actually your most profitable — after maintenance, arrears and vacancy?
+If I asked which of your buildings is genuinely your most profitable, after maintenance, after arrears, after the unit that's sat empty since March, could you answer today? Or is it more of a "give me a couple of days and I'll pull some spreadsheets" situation?
 
-If the honest answer is "I'd have to pull a few spreadsheets and get back to you," you're not alone. And that's exactly the gap that quietly erodes returns.
+No judgement either way. It's almost always the second one. The data does exist, it's just scattered across the accounting system, a maintenance WhatsApp group, and two or three spreadsheets that only one person on the team really understands.
 
-Most property businesses run a fast sales front office and a slow, reactive back office — facilities fixed only when they break, leases buried in PDFs, renewal dates discovered too late.
+That scatter is what quietly eats returns. You can't manage what you can't see in one place, and most owners are working off a lagging, half-complete picture without quite realising it.
 
-Biloop closes that gap:
+What we've been doing with Biloop is unglamorous but useful: pull occupancy, arrears, yield and maintenance cost into one live view, then let people just ask it questions in normal language. "Highest arrears this quarter?" "Net yield by building?" Answers come back in seconds, not days.
 
-🔧 Maintenance moves from reactive to predictive — protecting asset value and tenant satisfaction
-📄 Leases become structured and deadline-aware — no more missed renewals or rent reviews
-📊 One live view of occupancy, arrears, yield and cost per asset — just ask, in plain language
+It won't make the hard calls for you. It just means you're making them with the full picture in front of you instead of a gut feeling.
 
-You stop guessing which assets perform. You know.
+A bit more on how it comes together: https://saheerlulu.github.io/mydo/blogs/real-estate.html
 
-That's the difference between owning property and running a portfolio.
-
-👉 The full real estate breakdown: https://saheerlulu.github.io/mydo/blogs/real-estate.html
-
-#RealEstate #AssetManagement #PropertyManagement #PropTech #PredictiveMaintenance #BiloopAI #Biloop
+#RealEstate #AssetManagement #Biloop

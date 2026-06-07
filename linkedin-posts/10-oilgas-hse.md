@@ -1,24 +1,17 @@
-# LinkedIn Post 10 — Oil & Gas (HSE, compliance & knowledge)
+# LinkedIn Post 10 - Oil & Gas (HSE, compliance & knowledge)
 
 ---
 
-In most industries, a process gap costs money.
+In most industries a broken process costs money. In oil and gas it can cost a life, a spill, or your licence to operate. The stakes are different, and honestly the tooling should reflect that.
 
-In oil & gas, it can cost safety, environment, and your licence to operate.
+Yet in plenty of operations, permits to work, inspections and incident reports still live on paper and in spreadsheets. That's exactly the place you don't want gaps, and paper is where gaps go to hide.
 
-Yet permits to work, inspections, incident reports and compliance certificates are still managed — in too many operations — on paper and spreadsheets. Exactly the place where gaps must not exist.
+There's a slower problem sitting underneath it, too. The engineers who carry decades of "how this plant actually behaves" in their heads are retiring, and a lot of that understanding walks out the gate with them.
 
-And there's a quieter risk compounding it: experienced engineers are retiring, taking decades of hard-won knowledge with them, while critical assets keep aging.
+We've been using Biloop to chip away at both. Permits, inspections and incidents go digital, with the right approvals enforced, conflicting permits flagged, and corrective actions tracked through to closure, all of it leaving a proper audit trail. And the mountain of P&IDs, manuals and old reports becomes searchable, so an engineer can ask a plain question and get the answer back with the source document attached.
 
-Biloop addresses both:
+Leaders end up with a live safety picture instead of last month's report. And the hard-won knowledge stays in the business when the people move on. In a safety-critical industry I'd call that resilience rather than efficiency.
 
-🦺 Digitises permits to work, inspections and incidents — enforcing approvals, flagging conflicts, tracking corrective actions to closure, with a complete audit-ready trail
-🧠 Makes decades of P&IDs, manuals and reports instantly searchable — an engineer asks a question in plain language and gets the answer with the source document attached
+More on how it fits together: https://saheerlulu.github.io/mydo/blogs/oil-and-gas.html
 
-Leaders get a live safety picture instead of a lagging monthly report. And institutional knowledge stays in the business, even when people leave.
-
-In a safety-critical industry, that's not just efficiency. It's resilience.
-
-👉 The full oil & gas breakdown: https://saheerlulu.github.io/mydo/blogs/oil-and-gas.html
-
-#OilAndGas #HSE #ProcessSafety #Energy #DigitalTransformation #IndustrialAI #BiloopAI #Biloop
+#HSE #ProcessSafety #Biloop

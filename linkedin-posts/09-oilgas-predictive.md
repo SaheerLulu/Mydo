@@ -1,23 +1,17 @@
-# LinkedIn Post 9 — Oil & Gas (predictive maintenance)
+# LinkedIn Post 9 - Oil & Gas (predictive maintenance)
 
 ---
 
-🛢️ In oil & gas, a single unplanned failure can cost more in a day than a year of maintenance budget.
+In oil and gas, one unplanned failure can cost more in a single day than you'd spend on maintenance in a year. Everyone in operations knows that number. What still gets me is that the warning was almost always sitting right there.
 
-A compressor seizes. Production halts. The clock starts running at an eye-watering rate per hour — and nobody saw it coming.
+A compressor rarely fails out of nowhere. The vibration drifts, a temperature creeps up, a pressure reading wanders off its usual pattern. Those signatures live in the historian for days, sometimes weeks, before anything dramatic happens. The problem was never a shortage of data. It's that no person alive can watch millions of readings a day and catch the slow drift in time.
 
-Except the data did. It almost always does.
+That narrow, specific thing is what the model is actually good at. Biloop learns what each asset looks like when it's healthy and flags the deviation early, with enough runway to plan a fix instead of scrambling for one.
 
-The early signature of failure — a drift in vibration, a creep in temperature, a pressure anomaly — is sitting in your historian weeks before the breakdown. The problem isn't a lack of data. It's that no human can watch millions of sensor readings a day and spot the subtle drift in time.
+A failure that would have halted production turns into a scheduled job during downtime you already planned. On one critical asset, that single catch can pay for the whole deployment.
 
-Biloop learns the normal operating signature of each asset and raises a prioritised alert with enough lead time to plan an intervention.
+I'm wary of the "AI fixes everything" talk, so to be clear: this is narrow and fairly unglamorous. It just happens to sit exactly where the money is.
 
-That turns a catastrophic, production-halting failure into a scheduled fix during planned downtime.
+The detail, including the vibration side, is here: https://saheerlulu.github.io/mydo/blogs/oil-and-gas.html
 
-In this industry, lead time is everything. That single shift can pay for the platform many times over.
-
-Reactive is expensive. Predictive is survival.
-
-👉 From reactive to predictive — how AI transforms oil & gas: https://saheerlulu.github.io/mydo/blogs/oil-and-gas.html
-
-#OilAndGas #Energy #PredictiveMaintenance #AssetIntegrity #IndustrialAI #BiloopAI #Biloop
+#OilAndGas #PredictiveMaintenance #Biloop

@@ -1,10 +1,10 @@
 # Biloop — LinkedIn Campaign (10 Posts)
 
-Ten ready-to-publish LinkedIn posts on **how AI transforms five industries** — two posts per industry. Each post is in its own file so you can schedule them individually. Replace `[link to blog]` with the published GitHub Pages URL of the matching deep-dive before posting.
+Ten ready-to-publish LinkedIn posts on how AI is changing five industries, two per industry. Each post lives in its own file so you can schedule them individually. They're written in a plain, first-person voice (not marketing-speak), and the blog link is already baked into each one.
 
 ## Posting plan
 
-A suggested cadence: publish one post every 2–3 business days, alternating across industries to keep the feed varied. Lead with the "problem" post, follow with the "outcome" post a few days later.
+A simple cadence: one post every 2-3 business days, rotating across industries so the feed stays varied. Lead with the "problem" post, then follow with the "outcome" post a few days later.
 
 | # | Industry | Angle | File | Blog |
 |---|----------|-------|------|------|
@@ -19,11 +19,11 @@ A suggested cadence: publish one post every 2–3 business days, alternating acr
 | 9 | Oil & Gas | Predictive maintenance | [09-oilgas-predictive.md](09-oilgas-predictive.md) | [oil-and-gas.html](../blogs/oil-and-gas.html) |
 | 10 | Oil & Gas | HSE, compliance & knowledge | [10-oilgas-hse.md](10-oilgas-hse.md) | [oil-and-gas.html](../blogs/oil-and-gas.html) |
 
-## Tips for posting on LinkedIn
+## Tips for posting
 
-- **Keep the hook in the first 2 lines** — that's all that shows before "see more". These posts are written that way.
-- **Post the link in the first comment** if you want maximum reach (LinkedIn favours posts that keep people on-platform), or in the body if clicks matter more than reach.
-- **Tag relevant people / the Biloop page** and add a simple image or carousel where possible.
-- **Engage in the first hour** — reply to every comment to boost distribution.
+- The first two lines are all that show before "see more", so they're written to stand on their own. Don't bury them.
+- For more reach, move the blog link into the first comment instead of the body (LinkedIn favours posts that keep people on-platform). If clicks matter more than reach, leave it in the body.
+- Make them yours. Swap in a real number, a client story or a detail from your own week. A genuine specific beats a polished generality every time, and it's what keeps a post from reading like a template.
+- Attach the matching diagram from `assets/img/` as the image, and reply to early comments yourself in the first hour.
 
-— © 2026 Biloop. Contact: info@biloop.ai
+© 2026 Biloop. Contact: info@biloop.ai

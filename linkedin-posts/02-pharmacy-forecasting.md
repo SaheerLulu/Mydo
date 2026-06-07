@@ -1,23 +1,17 @@
-# LinkedIn Post 2 — Pharmacy Retail (demand forecasting & stockouts)
+# LinkedIn Post 2 - Pharmacy Retail (demand forecasting & stockouts)
 
 ---
 
-A patient walks into your pharmacy for a prescription you don't have in stock.
+Mildly unpopular opinion in retail pharmacy: most stockouts aren't a supply problem. They're a planning decision you made months ago and then forgot about.
 
-They don't wait. They walk to the next pharmacy — and often, they don't come back.
+Someone sets a reorder level once, usually off last year's numbers, and nobody touches it again. Then flu season comes early, a clinic opens two streets over, a supplier slips a week, and the number that looked sensible in January is quietly wrong by March.
 
-Here's the uncomfortable truth: most stockouts aren't bad luck. They're the result of reorder points set once a year and never adjusted for flu season, a new clinic down the road, or a supplier delay.
+The patient never sees any of that. They see an empty shelf, say "no problem," and walk to the pharmacy down the road. A good chunk of them don't come back.
 
-Medloop learns the demand pattern of every product, at every branch — factoring in seasonality, local prescribing trends and promotions — and tells you what to reorder, and when.
+What Medloop does here isn't flashy. It's pattern-matching at a scale people can't manage by hand: demand per item, per branch, nudged for seasonality and local prescribing, turned into a plain "reorder this, this much, now." The genuinely odd part is you usually end up holding less stock and running out less often at the same time, which sounds contradictory until you watch it happen.
 
-The result is the combination most owners think is impossible:
-✅ Fewer stockouts on the items patients actually need
-✅ Less cash tied up in slow-moving inventory
+Honest question for the operators here: are you still setting reorder points manually, or has your system taken that over? I can't tell anymore whether this is a solved problem or still a daily headache for most.
 
-Same shelf space. Better decisions. More loyal patients.
+The version with the forecasting charts is here: https://saheerlulu.github.io/mydo/blogs/pharmacy-retail.html
 
-That's what AI changes in pharmacy retail — it turns guesswork into forecasting.
-
-👉 Read how it works across the whole pharmacy: https://saheerlulu.github.io/mydo/blogs/pharmacy-retail.html
-
-#Pharmacy #RetailAI #DemandForecasting #SupplyChain #Medloop #Biloop #HealthcareInnovation
+#Pharmacy #Medloop #RetailOps

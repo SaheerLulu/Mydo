@@ -1,21 +1,17 @@
-# LinkedIn Post 4 — Accounting (document drudgery & advisory shift)
+# LinkedIn Post 4 - Accounting (document drudgery & advisory shift)
 
 ---
 
-You didn't hire skilled accountants to retype invoices.
+Here's a hill I'm willing to die on: nobody hired qualified accountants so they could retype invoices.
 
-But that's where the hours go: reading PDFs, keying line items, matching receipts, fixing typos. The people you hired to *interpret* the business spend their days *assembling* the data.
+And yet, walk into most finance teams and a real slice of the week goes exactly there. Reading PDFs, keying line items, fixing the transposed digit somebody caught three days later. People who trained for years to interpret a business, spending their afternoons assembling the raw data instead.
 
-Biloop reads invoices, receipts and statements the moment they arrive — extracting every field, validating against your POs, coding the entry, and only asking a human when something's genuinely uncertain.
+Document AI has quietly crossed the line from "promising" to "actually reliable" on this. Biloop reads the invoice the moment it lands, pulls every field, checks it against the PO, and only flags a human when something genuinely doesn't reconcile. Something like four out of five invoices go through with nobody typing a thing.
 
-Around 80% of invoice data gets captured with zero keying.
+For a practice the arithmetic is hard to argue with. Same headcount, more clients, and the hours you free up go to advisory work that clients will actually pay a premium for.
 
-For accounting firms, this is a force multiplier. The same accountant can serve more clients — and spend the freed-up hours on advisory work clients will actually pay a premium for.
+The firms I'd put money on over the next few years aren't the ones with the biggest data-entry teams. They're the ones quietly dismantling that work and moving up the value chain.
 
-The firms that win the next few years won't be the ones with the most data-entry capacity. They'll be the ones who automated it and moved up the value chain.
+If you want the detail, including how the extraction and validation actually run: https://saheerlulu.github.io/mydo/blogs/accounting.html
 
-Which one are you building?
-
-👉 How AI transforms accounting — read more: https://saheerlulu.github.io/mydo/blogs/accounting.html
-
-#Accounting #AccountingFirms #Bookkeeping #AI #DocumentAI #AdvisoryServices #BiloopAI #Biloop
+#Accounting #Bookkeeping #Biloop

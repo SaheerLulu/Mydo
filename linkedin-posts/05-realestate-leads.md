@@ -1,21 +1,15 @@
-# LinkedIn Post 5 — Real Estate (lead response speed)
+# LinkedIn Post 5 - Real Estate (lead response speed)
 
 ---
 
-🏢 Most property deals aren't lost on price. They're lost on silence.
+A lead came in at 9:14pm. The agent replied at 11:30 the next morning. By then the buyer had already booked a viewing with someone who answered in two minutes.
 
-A lead comes in at 9pm. The agent sees it at 11am the next day. By then, the prospect has already booked a viewing with someone who replied in the first minute.
+I think about that gap more than I'd like to admit, because in property it's usually the whole game. It rarely comes down to the price or the photos. It comes down to who replied first, while the person was still in the mood to buy.
 
-In real estate, speed isn't a nice-to-have. It's the deal.
+The honest problem is that nobody can babysit a portal inbox at 9pm. So we let Biloop take the first touch: it answers the obvious questions, checks budget and intent, and drops a viewing straight into the agent's calendar. The team wakes up to booked slots instead of a cold backlog to dig through.
 
-Biloop responds to every enquiry — from portals, your website, WhatsApp, walk-ins — in under 60 seconds, day or night. It answers the common questions, qualifies budget and intent, and books a viewing straight into the agent's live calendar.
+Same leads. Same ad spend. The only thing that changed was the response time, and the response time was what had been quietly losing the deals.
 
-Your agents stop chasing cold leads and start their day with booked viewings.
+If you want the longer version with the conversion numbers, it's here: https://saheerlulu.github.io/mydo/blogs/real-estate.html
 
-Same leads. Same budget. 20–40% more qualified viewings.
-
-The market rewards whoever replies first. AI makes "first" your default setting.
-
-👉 From listings to lifetime value — how AI transforms real estate: https://saheerlulu.github.io/mydo/blogs/real-estate.html
-
-#RealEstate #PropTech #RealEstateMarketing #LeadGeneration #AI #BiloopAI #Biloop
+#RealEstate #PropTech #Biloop

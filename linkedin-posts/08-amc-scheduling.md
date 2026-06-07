@@ -1,23 +1,15 @@
-# LinkedIn Post 8 — AMC (scheduling & predictive service)
+# LinkedIn Post 8 - AMC (scheduling & predictive service)
 
 ---
 
-A technician drives 45 minutes across the city — then discovers he doesn't have the right part.
+I watched a technician drive 45 minutes across town, get to site, and realise he didn't have the one part the job actually needed. Turn around, drive back, reschedule. A whole afternoon gone, one irritated customer, one blown SLA.
 
-Now it's a second visit, an unhappy customer, a breached SLA, and a day's productivity gone. Multiply that across a fleet, and it's where AMC margin quietly dies.
+Nobody did anything wrong. Getting the right person, with the right part, to the right job, in a sensible order, while protecting every SLA, is a genuinely hard problem. A whiteboard and a phone were never going to crack it well.
 
-Dispatching the right technician, with the right parts, to the right job, against the right SLA, is a genuinely hard optimisation problem. A whiteboard and a phone can't solve it.
+This is the sort of thing software is quietly excellent at, though. Biloop matches jobs to technicians on skill, location, what's actually on the van, and how tight the SLA is, then hands over a route that makes sense. The preventive visits that are easy to let slip get scheduled on their own. And where the equipment reports back, it points out the units likely to fail soon so you catch them on a planned visit instead of a 2am call-out.
 
-Biloop can:
+Teams that run it this way get noticeably more done per technician per day, with far fewer of those wasted round-trips. Fewer heroics, fewer ruined afternoons.
 
-📍 Assigns jobs by skill, location, parts and SLA urgency — minimising drive time while protecting response commitments
-🔧 Auto-schedules every preventive visit a contract includes, so nothing's forgotten
-📈 Spots the early signs of failure in connected assets and recommends a visit *before* the breakdown
+I went into the routing and SLA side in more depth here: https://saheerlulu.github.io/mydo/blogs/amc.html
 
-The result: 20–35% more jobs per technician per day, fewer emergency call-outs, and SLAs you can actually prove.
-
-Break-fix is expensive. Predictive is profitable. AI is the bridge.
-
-👉 The full AMC breakdown: https://saheerlulu.github.io/mydo/blogs/amc.html
-
-#AMC #FieldServiceManagement #PredictiveMaintenance #Operations #AI #BiloopAI #Biloop
+#FieldService #Operations #Biloop

@@ -1,23 +1,17 @@
-# LinkedIn Post 7 — AMC (renewals & recurring revenue)
+# LinkedIn Post 7 - AMC (renewals & recurring revenue)
 
 ---
 
-🛠️ The most expensive customer in your AMC business is the one you already lost.
+The most expensive customer in a maintenance business is the one who quietly didn't renew.
 
-Annual Maintenance Contracts are a beautiful recurring-revenue machine — until renewals start slipping through a spreadsheet nobody owns. Every lapsed contract is revenue gone, and winning it back costs far more than keeping it.
+I learned that watching an AMC company that was excellent at the actual work and genuinely bad at the calendar. Contracts expired inside a spreadsheet that nobody really owned. By the time anyone noticed, the client had already drifted, and winning them back cost far more than simply keeping them would have.
 
-The problem isn't your team. It's that tracking hundreds of expiry dates, SLAs and pricing terms by hand simply doesn't scale.
+It wasn't a sales failure or a motivation problem. Past a certain number of contracts, tracking every expiry date, SLA and pricing term by hand just stops working. Something slips, and you don't find out until the revenue's already gone.
 
-Biloop reads every contract, extracts the terms that matter — covered assets, SLAs, included visits, renewal dates — and then:
+So now we let Biloop read the contracts, lift out the renewal dates and terms, and surface each one a couple of months ahead with a draft uplift already prepared. The account owner gets the nudge in time to actually have the conversation, rather than apologising after the renewal's lapsed.
 
-✅ Surfaces every renewal months ahead
-✅ Auto-drafts it with updated pricing
-✅ Nudges the account owner in time to act
+Renewals went from a recurring fire drill to something closer to routine. In a recurring-revenue business that's not a small win, it's the model itself holding together.
 
-Renewal stops being a fire drill and becomes a routine. Zero contracts fall through the cracks.
+Full breakdown here if it's useful: https://saheerlulu.github.io/mydo/blogs/amc.html
 
-In a recurring-revenue business, retention *is* the strategy. AI just makes sure you never lose a renewal you could have kept.
-
-👉 From break-fix to predictive — how AI transforms AMC: https://saheerlulu.github.io/mydo/blogs/amc.html
-
-#AMC #FieldService #MaintenanceManagement #RecurringRevenue #AI #BiloopAI #Biloop
+#FieldService #AMC #Biloop
