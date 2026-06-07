@@ -294,11 +294,7 @@ def product_for(k):
     return "Medloop" if k=="pharmacy" else "Biloop"
 
 def main():
-    for k,d in DATA.items():
-        p=product_for(k)
-        arch(k,d["title"],d["datain"],d["ai"],d["out"],d["users"],p)
-        flow(k,d["flow_title"],d["flow"],d["accent"])
-        impact(k,d["impact_title"],d["impact"],d["accent"])
+    # Homepage assets only. Per-blog diagrams are bespoke — see tools/gen_creative.py.
     for k,(e,ti,tg,c) in BANNERS.items():
         banner(k,e,ti,tg,c,product_for(k))
     hero(); capabilities(); platform()
